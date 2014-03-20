@@ -10,7 +10,7 @@ Prérequis :
 
 1 - Téléchargez la librairie AndroidSerial-distribution.zip , dézippez l'archive et copiez la dans le repertoire /librairies de votre repertoire de sketchs
 
-2 - Créez votre sketch sous processing, vous pouvez rependre l'exemple basique dans le repertoire /example/processing
+2 - Créez votre sketch sous processing, vous pouvez rependre l'exemple basique dans le repertoire /example/android
 
 3 - Créez votre sketch arduino, vous trouverez aussi un exemple dans le repertoire /example/arduino, uploadez le dans arduino
 
